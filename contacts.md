@@ -16,6 +16,11 @@ permalink: /contacts/
 
 ***
 
+[**Twitter**](https://twitter.com/drambluker)
+-------
+
+***
+
 [**Instagram**](https://www.instagram.com/drambluker/)
 ---------
 
