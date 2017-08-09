@@ -150,19 +150,18 @@ img {
 // .masthead
 //
 
-/*.wrapper-masthead {
-  margin-bottom: 50px;
-}*/
+//.wrapper-masthead {
+//  margin-bottom: 50px;
+//}
 
 .masthead {
   padding: 20px 0;
   border-bottom: 1px solid $lightGray;
+  margin: 0 auto 20px;
 
   @include mobile {
     text-align: center;
   }
-
-  margin: 0 auto 20px;
 }
 
 .site-avatar {
