@@ -150,9 +150,9 @@ img {
 // .masthead
 //
 
-.wrapper-masthead {
+/*.wrapper-masthead {
   margin-bottom: 50px;
-}
+}*/
 
 .masthead {
   padding: 20px 0;
@@ -161,6 +161,8 @@ img {
   @include mobile {
     text-align: center;
   }
+
+  margin: 0 auto 20px;
 }
 
 .site-avatar {
