@@ -250,7 +250,6 @@ nav {
 .posts > .post:last-child {
   padding-bottom: 1em;
   border-bottom: none;
-  margin-bottom: 20px;
 }
 
 .post {
@@ -271,6 +270,8 @@ nav {
     text-transform: uppercase;
     font-size: 15px;
   }
+
+  margin-bottom: 20px;
 }
 
 .wrapper-footer {
