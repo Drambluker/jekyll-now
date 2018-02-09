@@ -6,6 +6,6 @@ permalink: /projects/
 
 ***
 
-[**Magic 8 ball (Telegram bot)**](https://github.com/Drambluker/Magic8Ball-TelegramBot)
+[**Magic 8 ball (Telegram bot)**](https://goo.gl/tsjGnq)
 
 ***
