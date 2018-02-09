@@ -6,37 +6,37 @@ permalink: /contacts/
 
 ***
 
-[**Личная страница VK**](https://vk.com/drambluker)
+[**Личная страница VK**](https://goo.gl/zoTA3r)
 ------------------
 
 ***
 
-[**Группа VK**](https://vk.com/dramblukerblog)
+[**Группа VK**](https://goo.gl/k633kU)
 ---------
 
 ***
 
-[**Twitter**](https://twitter.com/drambluker)
+[**Twitter**](https://goo.gl/QPei5k)
 -------
 
 ***
 
-[**Instagram**](https://www.instagram.com/drambluker/)
+[**Instagram**](https://goo.gl/f8Sxi4)
 ---------
 
 ***
 
-[**GitHub**](https://github.com/Drambluker)
+[**GitHub**](https://goo.gl/KrWs8z)
 ------
 
 ***
 
-[**Telegram Blog**](http://t.me/DramblukerBlog)
+[**Telegram Blog**](https://goo.gl/j8NzHd)
 -------------
 
 ***
 
-[**Telegram Bot**](http://t.me/DramblukerBot)
+[**Telegram Bot**](https://goo.gl/gUEX8o)
 ------------
 
 ***
