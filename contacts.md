@@ -35,8 +35,3 @@ permalink: /contacts/
 -------------
 
 ***
-
-[**Telegram Bot**](https://goo.gl/gUEX8o)
-------------
-
-***
