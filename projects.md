@@ -12,7 +12,7 @@ permalink: /projects/
 
 Cube Rain is a simple time-killer game. The main goal of the game is to score as many points as possible. To do this, you should not allow the cubes to fall on the platform.
 
-- [**Game Jolt**](https://drambluker.gamejolt.io/cube-rain)
+- [**Game Jolt**](https://gamejolt.com/games/cube-rain/359253)
 - [**itch.io**](https://drambluker.itch.io/cube-rain)
 
 ***
