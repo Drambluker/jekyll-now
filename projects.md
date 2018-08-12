@@ -17,6 +17,14 @@ Cube Rain is a simple time-killer game. The main goal of the game is to score as
 
 ***
 
+## Pocket Tanks
+
+Creation and coding of the 2 players video game "Pocket Tanks" graphically using the programming Language C++ in the environment MS Visual Studio.
+
+- [**GitHub**](https://github.com/v3games/Pocket-Tanks)
+
+***
+
 ## Magic 8 Ball Bot
 
 ![](https://cdn4.telesco.pe/file/EBAJz_vBdawDNqMIrHtKDgq0TKGkaeBrwlYFJwiu9HklcOiMr3cqjGIZ-0xHUr77FuTJ5pSXlBWu5825Mdg532ARFRZW9CTjGtiGUKwwlPbF4Aoj-yenOT2SNuf1L2XWN0lDcHRUOuFrnnSFGWZh2l4-ngEllizsSZWufYohcVVzND6w4g_CuJDK0wvaHRjdNcjvXBtoZ35FDC6VWFCgv_xe4-l3HKXzG38W0lPeN-t1qlhWyzcw_lFkjn0cC0HN6NNnpNa1fpQKxl-7xz-8h9256e_G3Idb1nMQpxoPx01J9sLzn6aB2qSOxgNDQjntrEgLq6XWr_YK_yM5-8yXcQ.jpg)
