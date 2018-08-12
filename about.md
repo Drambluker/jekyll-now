@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![drambluker-logo.gif]({{ site.baseurl }}/images/Logo/drambluker-logo.gif)
+![]({{ site.baseurl }}/images/Logo/drambluker-logo.gif)
 
 *I'm a coder, an indie game developer and a student at Bryansk State Technical University (BSTU).* 💻
 
