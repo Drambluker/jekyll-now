@@ -19,7 +19,7 @@ Cube Rain is a simple time-killer game. The main goal of the game is to score as
 
 ## Pocket Tanks
 
-Creation and coding of the 2 players video game "Pocket Tanks" graphically using the programming Language C++ in the environment MS Visual Studio.
+Pocket Tanks is a 2 player computer game. The point of the game is to use various weapons to attack the other player's tank. Each hit scores a certain amount of points, which varies based on the weapon. At the end of the match, the player with the highest points wins. The game features a fully destructible environment allowing for the probability of strategic play.
 
 - [**GitHub**](https://github.com/v3games/Pocket-Tanks)
 
