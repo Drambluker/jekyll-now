@@ -6,7 +6,7 @@ permalink: /about/
 
 ![]({{ site.baseurl }}/images/Logo/drambluker-logo.gif)
 
-*I'm a coder, an indie game developer and a student at Bryansk State Technical University (BSTU).* 💻
+*Hello! I'm a coder, an indie game developer and a student at Bryansk State Technical University (BSTU).* 💻
 
 ***
 
