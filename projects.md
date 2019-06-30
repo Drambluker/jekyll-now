@@ -27,7 +27,7 @@ Pocket Tanks is a 2 player computer game. The point of the game is to use variou
 
 ## Magic 8 Ball Bot
 
-The Magic 8-Ball is a bot used for fortune-telling or seeking advice.
+Magic 8 Ball is a bot used for fortune-telling or seeking advice.
 
 - [**GitHub**](https://github.com/Drambluker/Magic8Ball-TelegramBot)
 - [**Telegram**](https://goo.gl/Bn2XAZ)
